@@ -2,8 +2,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-React Login Page 
-In the project directory, you can run:
+React Login Page : It's a simple Login Page for Beginners with a Username and Password field. 
 
-## `npm install`
-### `npm start`
+Steps to run : 
+
+1.Clone the project 
+
+2.Run the command "npm install" inside the folder directory
+
+3.Run the command "npm start" to see the result.
